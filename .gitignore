@@ -1,0 +1,36 @@
+# Compiled object files and executables
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+*.class
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# Backup and temp files
+*~
+*.tmp
+*.log
+*.log.*
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+*.code-workspace
+
+# IDE files
+*.idea/
+
+# OneDrive and shortcuts
+*.lnk
